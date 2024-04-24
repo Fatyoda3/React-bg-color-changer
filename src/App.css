@@ -1,0 +1,17 @@
+.background {
+	width: 650px;
+	height: 300px;
+	border: 2px solid red;
+    filter: saturate(50%);
+}
+
+.btnGroup {
+
+	border: 3px solid salmon;
+
+	display: flex;
+	justify-content: center;
+	align-items: center;
+
+	flex-wrap: wrap;
+}
